@@ -1,0 +1,8 @@
+1
+2
+3
+This is the done before creating featue branch
+This changes after creating fb brach in al
+helll you will see this change in fb barnch by rebasing
+2dn time rebase from main branch
+mergeconflicts-changes from main branch in b1.txt
